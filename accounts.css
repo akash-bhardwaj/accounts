@@ -1,0 +1,38 @@
+body {
+	background: #edece8;
+	font-family: 'Helvetica';
+	font-size: 13px;
+}
+h3 {
+	margin: 0px 0px 5px;
+	text-align: center;
+}
+.logged-in h4{
+	text-align: center;
+}
+.login {
+	width: 25%;
+	margin: 150px auto;
+	background: white;
+	box-shadow: rgba(0,0,0, 0.2) 0px 0px 5px 0px;
+	padding: 10px;
+}
+.login-form > input{
+		padding: 5px 10px;
+		margin: 0 4px 2px 0;
+}
+.create-form > input{
+		padding: 5px 10px;
+		margin: 0 4px 2px 0;
+}
+p {
+	padding: 5px 10px;
+	background: #2B7CB2;
+	color: #f4f5f6;
+	display: inline-block;
+	margin: 3px 0;
+}
+p#logout{
+	background: #BD0041;
+}
+
